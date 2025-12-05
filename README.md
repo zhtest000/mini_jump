@@ -319,6 +319,9 @@ go build -o minijump main.go
 ./minijump -port 8080
 ```
 
+在线测试：[http://http://minijump.demo.91hu.top/manager558630](http://minijump.demo.91hu.top/manager558630)
+
 ## 许可证
 
 MIT License
+
